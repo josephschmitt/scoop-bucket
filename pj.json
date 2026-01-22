@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/josephschmitt/pj/releases/download/v1.1.0/pj_1.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/josephschmitt/pj/releases/download/v1.2.0/pj_1.2.0_windows_amd64.tar.gz",
             "bin": [
                 "pj.exe"
             ],
-            "hash": "f026c389d2ee7f32ff84308bf1faae42bcb5decb6b8b357a9bc8532bfe472211"
+            "hash": "7c013c2681cb0754e9723074ecfd3bddcbaab8b60e08cadedee373aaab2eed7a"
         },
         "arm64": {
-            "url": "https://github.com/josephschmitt/pj/releases/download/v1.1.0/pj_1.1.0_windows_arm64.tar.gz",
+            "url": "https://github.com/josephschmitt/pj/releases/download/v1.2.0/pj_1.2.0_windows_arm64.tar.gz",
             "bin": [
                 "pj.exe"
             ],
-            "hash": "766190963f0a06da9181ad21bd6016908dfd19d9c18bbd0166834a60d2c9a2db"
+            "hash": "1836f7ad3f17c9c74fbe053f8b7e95f9cc1f473f3753ff0c0639fd45310762db"
         }
     },
     "homepage": "https://github.com/josephschmitt/pj",
